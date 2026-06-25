@@ -81,6 +81,5 @@ The system uses a combination of smoke, temperature, and flame sensors to reduce
 ## Author
 
 **Dennis Kyule Muli**
-Electrical and Electronics Engineering Student | Embedded Systems Developer
 
-Part of the **Charge Again Project** by Dennis Kyule Muli
+Electrical and Electronics Engineering Student | Embedded Systems Developer
