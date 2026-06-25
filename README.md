@@ -82,4 +82,4 @@ The system uses a combination of smoke, temperature, and flame sensors to reduce
 
 **Dennis Kyule Muli**
 
-Electrical and Electronics Engineering Student | Embedded Systems Developer
+Electrical and Electronics Engineer | Embedded Systems Developer
